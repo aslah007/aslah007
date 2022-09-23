@@ -3,8 +3,3 @@
 - 👀 I can’t wait to be surprised by someone else’s creativity...
 - 💞️ A time of peace, love, and hot chocolate...
 - 🌍 Think global, act locally.” 
-
-<!---
-aslah007/aslah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
